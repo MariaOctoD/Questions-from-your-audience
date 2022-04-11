@@ -1530,17 +1530,13 @@
         <slidelink slideid="_player.6pTQA5LT9aX" displaytext="Untitled Scene" expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6pTQA5LT9aX.5b6yJbTzZRx" displaytext="Untitled Slide" expand="false" type="slide" />
-            <slidelink slideid="_player.6pTQA5LT9aX.5rqMVd2t1FF" displaytext="1" expand="false" type="slide" />
-            <slidelink slideid="_player.6pTQA5LT9aX.6FPRHPhoCyi" displaytext="2" expand="false" type="slide" />
-            <slidelink slideid="_player.6pTQA5LT9aX.5wuq1MnA2HH" displaytext="3" expand="false" type="slide" />
-            <slidelink slideid="_player.6pTQA5LT9aX.6fcvPIIupk7" displaytext="4" expand="false" type="slide" />
-            <slidelink slideid="_player.6pTQA5LT9aX.5vVfTq4ceYZ" displaytext="5" expand="false" type="slide" />
+            <slidelink slideid="_player.6pTQA5LT9aX.5VwTVD29TSe" displaytext="Q&amp;amp;A" expand="false" type="slide" />
           </links>
         </slidelink>
       </links>
     </outline>
   </nav_data>
-  <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#464646'&gt;Here are some useful links and documents:&lt;/font&gt;&lt;/p&gt;" />
+  <resource_data description="&lt;p align='left'&gt;&lt;font face='Lato' style='font-size: 11px;' size='11' color='#464646'&gt;Voici quelques liens et documents utiles&amp;#160;:&lt;/font&gt;&lt;/p&gt;" />
   <transcript_data />
   <glossary_data />
 </bwFrame>
